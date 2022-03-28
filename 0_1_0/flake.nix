@@ -11,7 +11,6 @@
   inputs.src-hotdoc-0_1_0.ref   = "refs/tags/0.1.0";
   inputs.src-hotdoc-0_1_0.owner = "willyboar";
   inputs.src-hotdoc-0_1_0.repo  = "hotdoc";
-  inputs.src-hotdoc-0_1_0.dir   = "";
   inputs.src-hotdoc-0_1_0.type  = "github";
   
   inputs."docopt".owner = "nim-nix-pkgs";
